@@ -1,0 +1,5 @@
+/private/var/folders/5l/g1htggqd3pj0rl5r6km0w8y40000gn/T/AppTranslocation/0DA86BDB-FD6C-447C-84E6-1B6444CA2886/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/andrejaksenov/CLionProjects/mandelbrot_sfml
+-- Found SFML 2.5.1 in /opt/homebrew/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/andrejaksenov/CLionProjects/mandelbrot_sfml/cmake-build-debug
